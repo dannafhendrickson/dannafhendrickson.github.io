@@ -1,0 +1,25 @@
+
+body {
+	text-align: center;
+	border-top: 2px black solid;
+	border-bottom: 2px black solid;
+	background-color: rgb(198,198,198);
+}
+
+ul {
+	list-style: inside;
+}
+
+#img-1 {
+	border: 1px solid black;
+	float: right;
+	height: 30%
+}
+
+.uppercase-title {
+	text-transform: uppercase;
+}
+
+hr {
+	width: 70%;
+}
